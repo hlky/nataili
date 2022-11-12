@@ -1,0 +1,8 @@
+requests
+torch
+torchvision
+loguru
+transformers
+timm
+tqdm
+Pillow
